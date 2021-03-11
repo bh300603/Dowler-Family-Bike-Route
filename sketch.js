@@ -36,7 +36,7 @@ function draw() {
     textSize(32);
     noFill();
     text("Dowler Family Bike Route",athens.x,athens.y);
-    image(img,athens.x,athens.y,125,200);
+    image(img,athens.x,athens.y,175,200);
      
      fill(0, 25);
   } else {
